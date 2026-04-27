@@ -1,7 +1,5 @@
 # Assignment-State-Management-with-useImmer-Hook
 
-# User Profile with Immer (React + Vite)
-
 ## Overview
 This project demonstrates how to manage complex nested state in React using the useImmer hook. It simplifies updating deeply nested objects while maintaining immutability.
 
@@ -42,7 +40,4 @@ npm run dev
 3. Toggle repeatedly → state remains consistent
 
 ## Demo Video
-(Add your link here)
 
-## Author
-Paulina Salomon
