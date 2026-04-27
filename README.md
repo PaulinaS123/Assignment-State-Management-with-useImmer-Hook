@@ -16,7 +16,7 @@ This project demonstrates how to manage complex nested state in React using the 
 
 ## How to Run
 
-git clone https://github.com/YOUR-USERNAME/user-profile-immer.git
+git clone 
 cd user-profile-immer
 npm install
 npm run dev
